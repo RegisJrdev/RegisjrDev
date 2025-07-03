@@ -36,14 +36,12 @@ O que estou estudando atualmente:
 
 ### `📊 Estatísticas`
 
-<div align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=RegisjrDev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+## 📊 Estatísticas
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisjrDev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-</div>
+<a href="https://github.com/RegisjrDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RegisjrDev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"/>
+</a>
+<a href="https://github.com/RegisjrDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisjrDev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5"/>
+</a>
+
