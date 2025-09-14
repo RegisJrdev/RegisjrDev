@@ -8,7 +8,7 @@ Também já tive contato com tecnologias frontend, como HTML, CSS e JavaScript, 
 
 O que estou estudando atualmente:
 
-- Java 
+- PHP
 - SQL e modelagem de banco de dados
 - Git/GitHub para controle de versão
 
