@@ -16,7 +16,7 @@ O que estou estudando atualmente:
 
 ### `🤖 Linguagens e Tecnologias`
 
-<img align="left" alt="Java" title="Java" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Java" title="Java" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
