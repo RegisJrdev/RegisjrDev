@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 `Reginaldo Junior`
 
-### **`Desenvolvedor Backend`**
+### **`Desenvolvedor Fullstack`**
 
 Olá, me chamo Reginaldo Junior, sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau | Parnaíba e tenho foco no desenvolvimento backend.
 
@@ -8,7 +8,8 @@ Também já tive contato com tecnologias frontend, como HTML, CSS e JavaScript, 
 
 O que estou estudando atualmente:
 
-- PHP
+- Laravel
+- Vue
 - SQL e modelagem de banco de dados
 - Git/GitHub para controle de versão
 
@@ -16,21 +17,22 @@ O que estou estudando atualmente:
 
 ### `🤖 Linguagens e Tecnologias`
 
-<img align="left" alt="Laravel" title="Laravel" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/Laravel-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 
-<img align="left" alt="Vue" title="Vue" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" />
+<img align="left" alt="Vue" title="Vue" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
-<img align="left" alt="Php" title="Php" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-<img align="left" alt="Git" title="Git" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img align="left" alt="Git" title="Git" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <br/>
 <br/>
