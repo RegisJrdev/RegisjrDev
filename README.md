@@ -16,9 +16,9 @@ O que estou estudando atualmente:
 
 ### `🤖 Linguagens e Tecnologias`
 
-<img align="left" alt="Laravel" title="Laravel" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/Laravel-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/Laravel-original.svg" />
 
-<img align="left" alt="Vue" title="Vue" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/vue-original.svg" />
+<img align="left" alt="Vue" title="Vue" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" />
 
 <img align="left" alt="Php" title="Php" width="35px" style="padding-right:15px; margin-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
